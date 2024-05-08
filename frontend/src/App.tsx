@@ -2,7 +2,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import AllRoute from "./Routes/AllRoute";
 
-export const baseUrl: string = "http://localhost:8080/";
+export const baseUrl: string = "https://ai-integration-1ibo.onrender.com/";
 function App() {
   return (
     <>
